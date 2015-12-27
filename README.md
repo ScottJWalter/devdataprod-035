@@ -7,7 +7,7 @@ Food Environment Atlas data, located at:
 
 http://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads.aspx
 
-Specificall, the current data set at:
+Specifically, the current data set at:
 
 http://www.ers.usda.gov/datafiles/Food_Environment_Atlas/Data_Access_and_Documentation_Downloads/Current_Version/DataDownload.xls
 
