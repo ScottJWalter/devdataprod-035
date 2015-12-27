@@ -31,3 +31,7 @@ Overview:
     + Specialized food stores, 2012
     + Specialized food stores (% change), 2007-12
 4.  Generates a Shiny page that allows you to explore the data set
+
+You can run this app on shinyapps.io at:
+
+https://scottjwalter.shinyapps.io/devdataprod-035
