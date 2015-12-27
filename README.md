@@ -7,11 +7,14 @@ Food Environment Atlas data, located at:
 
 http://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads.aspx
 
-1.  It pulls the current data set from:
+Specificall, the current data set at:
 
 http://www.ers.usda.gov/datafiles/Food_Environment_Atlas/Data_Access_and_Documentation_Downloads/Current_Version/DataDownload.xls
 
-2.  Extracts the 'STORES' worksheet
+Overview:
+
+1.  This app pulls the current data set
+2.  Extracts the `STORES` worksheet
 3.  Subsets the worksheet to extract the following data points:
     + State
     + County
